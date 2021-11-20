@@ -1,4 +1,4 @@
-
+#dfs 알고리즘
 def dfs(v):
     visited[v] = True #리스트에 방문 했음을 True로 표기
     print(v,end=' ')
