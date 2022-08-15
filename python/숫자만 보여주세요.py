@@ -1,3 +1,8 @@
+#입력
+# a123b4
+# 출력
+# 1239
+
 # -*- coding: utf-8 -*-
 # UTF-8 encoding when using korean
 n = list(input())
